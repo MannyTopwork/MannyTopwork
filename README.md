@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+%26+Engineer;Web+%2F+Blockchain+%2F+Gambling;6%2B+Years+Experience;SEO+%26+Performance+Optimizer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software Engineer;Web+%2F+Blockchain+%2F+Gambling;6%2B+Years+Experience;SEO+%26+Performance+Optimizer;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -48,8 +48,6 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AlexKlimDeveloper/AlexKlimDeveloper/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AlexKlimDeveloper/AlexKlimDeveloper/output/github-contribution-grid-snake.svg" />
     <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/AlexKlimDeveloper/AlexKlimDeveloper/output/github-contribution-grid-snake.svg" />
   </picture>
 </p>
