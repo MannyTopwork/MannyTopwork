@@ -30,7 +30,7 @@
 ## 🚀 Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=wordpress,php,react,nextjs,js,ts,html,css,tailwind,bootstrap,git,docker,aws,mysql,postgres,linux,vscode,cloudflare,rust,api,devops,acfgutenberg&perline=10" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxtjs,angular,laravel,codeigniter,wordpress,php,js,ts,html,css,tailwind,bootstrap,git,docker,aws,mysql,postgres,linux,vscode,cloudflare,rust,golang,c++,devops,acfgutenberg&perline=10" />
 </p>
 
 ## 📊 GitHub Stats
