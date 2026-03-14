@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+%2F+Blockchain+%2F+Gambling;6%2B+Years+Experience;SEO+%26+Performance+Optimizer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=Software+Engineer;Web+%2F+Blockchain+%2F+Gambling;8%2B+Years+Experience;SEO+%26+Performance+Optimizer;" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-    Senior Web Developer with 7+ years of experience designing, developing, and deploying
+    Senior Web Developer with 8+ years of experience designing, developing, and deploying
   scalable web applications in some software companies across Europe. Strong expertise in
   Java (Spring Boot), Node.js, RESTful API development, microservices architecture, SQL
   optimization, and cloud deployment. Proven ability to deliver high-performance backend
